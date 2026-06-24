@@ -1,0 +1,49 @@
+# Unity YAML merge hints (requires git merge.unityyamlmerge driver if configured in Unity)
+*.cs diff=csharp text
+*.cginc text
+*.shader text
+*.mat merge=unityyamlmerge eol=lf
+*.anim merge=unityyamlmerge eol=lf
+*.unity merge=unityyamlmerge eol=lf
+*.prefab merge=unityyamlmerge eol=lf
+*.physicsMaterial2D merge=unityyamlmerge eol=lf
+*.physicMaterial merge=unityyamlmerge eol=lf
+*.asset merge=unityyamlmerge eol=lf
+*.meta merge=unityyamlmerge eol=lf
+*.controller merge=unityyamlmerge eol=lf
+
+# Binary assets
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.psd binary
+*.wav binary
+*.mp3 binary
+*.ogg binary
+*.aif binary
+*.aiff binary
+*.tga binary
+*.tif binary
+*.tiff binary
+*.3ds binary
+*.3DS binary
+*.fbx binary
+*.FBX binary
+*.lxo binary
+*.LXO binary
+*.ma binary
+*.MA binary
+*.obj binary
+*.OBJ binary
+*.blend binary
+*.blend1 binary
+*.dae binary
+*.DAE binary
+*.mb binary
+*.MB binary
+*.max binary
+*.MAX binary
+*.cubemap binary
+*.flare binary
+*.unitypackage binary

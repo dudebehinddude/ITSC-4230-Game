@@ -1,4 +1,15 @@
-MIT License
+# MIT License / CC BY-NC-SA 4.0
+
+## Audio assets (CC BY-NC-SA 4.0)
+
+Audio files in `Assets/Resources/Music/` are **not** licensed under the MIT
+License below. They are licensed separately under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+See `Assets/Resources/Music/LICENSE` for terms and attribution requirements.
+
+---
+
+## MIT License
 
 Copyright (c) 2026 Justin Brooks
 
